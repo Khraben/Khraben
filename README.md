@@ -5,7 +5,7 @@
 <p align="left">
   <a href="https://instagram.com/kvn.jt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kvn.jt" height="30" width="40" /></a>
   <a href="mailto:kvn.jimenez.t@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="kvn.jt" height="25" width="30" /></a>
-  <a href="www.linkedin.com/in/kvnjt" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="kvn.jt" height="35" width="40" /></a>
+  <a href="https://linkedin.com/in/kvnjt" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="kvn.jt" height="35" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
