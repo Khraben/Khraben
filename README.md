@@ -29,4 +29,4 @@
 <p><a href="https://www.buymeacoffee.com/kvn.jt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="kvn.jt" /></a></p><br><br>
 
 <h3> </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khraben&exclude_repo=TEC-Eats&langs_count=10&locale=en&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=ffffff00" alt="khraben" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khraben&exclude_repo=TEC-Eats&langs_count=10&locale=en&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=ffffff00" alt="khraben" /></p>
