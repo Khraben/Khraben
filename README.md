@@ -1,27 +1,56 @@
-<h1 align="center">Hi 👋, I'm Kevin Jiménez!</h1>
-<h3 align="center">A passionate developer!</h3>
+<p align="center">
+  <!-- Logo -->
+  <img src="https://raw.githubusercontent.com/Khraben/Khraben/refs/heads/main/logo.png" alt="Kevin Jiménez Logo" width="150"/>
+</p>
 
-<h3 align="left">Connect With Me:</h3>
-<p align="left">
+<h1 align="center">Hi 👋, I'm Kevin Jiménez!</h1>
+<h3 align="center">A versatile developer passionate about learning and building scalable solutions 🚀</h3>
+
+<p align="center">
   <a href="https://instagram.com/kvn.jt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kvn.jt" height="30" width="40" /></a>
   <a href="mailto:kvn.jimenez.t@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="kvn.jt" height="25" width="30" /></a>
   <a href="https://linkedin.com/in/kvnjt" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="kvn.jt" height="35" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### **About Me**
+I’m a versatile developer with experience in full-stack development across multiple technologies, including Next.js, React, TypeScript, Python, Java, and more. I enjoy building maintainable and scalable applications, exploring new technologies, and continuously improving my programming skills.  
+
+---
+
+### **Languages & Tools**
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a> 
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kvn.jt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="kvn.jt" /></a></p><br><br>                      
+---
+
+### **Activity & Streaks**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khraben&theme=react-dark&area=true" alt="Activity Graph" />
+</p>
+
+### **Profile Views**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Khraben&color=000000&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+### **Support Me**
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kvn.jt" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20My%20Work-000000?style=for-the-badge&logo=devbox&logoColor=white" alt="Support My Work"/>
+  </a>
+</p>
